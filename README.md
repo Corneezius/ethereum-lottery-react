@@ -1,12 +1,12 @@
-### Ethereum lottery
+# Ethereum lottery
 
 ## Note:
-To successfully deploy and fully use this project as a manager, you need Metamask installed, an infura account
+To successfully deploy and fully use this project as a manager, you need Metamask installed and an infura account
 
-## password
+## Password
 Switch out your mnemonic password and Infura account in the lottery/deploy.js file
 
 ## Configurations
 Deploy the contract and then copy the contract abi and the address.Finally, in src/lottery.js update the values accordingly
 
-# Run with npm start
+## Run with npm start
